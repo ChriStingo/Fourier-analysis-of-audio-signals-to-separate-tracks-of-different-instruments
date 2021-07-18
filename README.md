@@ -15,4 +15,8 @@ Nevertheless, I have prepared two optimal examples where this occurs with accept
 
 ### **Example of execution**:
 
+![download](https://user-images.githubusercontent.com/62427405/126068255-c16ac284-a220-4711-9d75-df28c3cba57b.png)
 
+Inside the notebook you can also listen to the result
+
+**Note**: To load the audio files do not load the folder, but the audios individually
