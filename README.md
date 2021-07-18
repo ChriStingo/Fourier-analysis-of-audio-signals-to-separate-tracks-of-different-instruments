@@ -1,5 +1,5 @@
 # Fourier-analysis-of-audio-signals-to-separate-tracks-of-different-instruments
-Analyze an audio signal consisting of two or more instruments. Work on the Fourier transform to obtain the original audio tracks of the instruments that make up the signal given in input.
+Analysis of an audio signal consisting of two or more instruments. Work on the Fourier transform to obtain the original audio tracks of the instruments that make up the signal given in input.
 
 ### **Introduction**:
 
